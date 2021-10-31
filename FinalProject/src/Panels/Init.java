@@ -1,7 +1,7 @@
 package Panels;
 
-import Panels.Login.ManagerLogin;
-import Panels.Login.StudentLogin;
+import Login.ManagerLogin;
+import Login.StudentLogin;
 import java.awt.Dimension;
 import java.awt.Toolkit;
 
