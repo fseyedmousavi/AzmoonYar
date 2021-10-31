@@ -1,5 +1,0 @@
-Mon Jul 20 23:19:32 IRDT 2020
-Tue Jul 21 23:19:00 IRDT 2020
-true
-true
-false
